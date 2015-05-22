@@ -4,7 +4,6 @@ Compiladores. Laura Sandoval. 2015-2
 Analizador Sintáctico (Parser)
 3 de Marzo de 2015
 Salazar Cárdenas Carlos Eduardo
-Cortes Abonza Carlos Alberto
 */
 
 #include <stdio.h>
